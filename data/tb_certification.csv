@@ -1,0 +1,9 @@
+id;certname;issuer;certtype
+1001;EU Reference Equivalence;European Commission;Reference
+1002;US EPA FEM;US Environmental Protection Agency;Reference
+1003;MCERTS;UK Environment Agency;Performance
+1004;TUV Type Approval;TUV Rheinland;Performance
+1005;AQ-SPEC Field Evaluation;South Coast AQMD;Performance
+1006;CE Marking;European Union;Safety
+1007;IP67 Rating;IEC;Durability
+1008;ISO 9001 Production;ISO;Quality
